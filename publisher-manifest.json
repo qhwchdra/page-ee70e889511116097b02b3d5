@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "475f42284db79a35f4f73caf",
+  "owner": "qhwchdra",
+  "repo": "page-ee70e889511116097b02b3d5",
+  "title": "D2加速(D2)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ee70e889511116097b02b3d5",
+      "a": "D2加速(D2)",
+      "b": "稳定全球clash加速器",
+      "entity": "D2加速(D2)",
+      "brand": "D2加速(D2)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c51e2c32921c51ad02e421c0e0621b3997008c107b84f8c75b373df306d2ee13",
+      "content": {
+        "primary_entity": "D2加速(D2)",
+        "keyword1": "D2加速(D2)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕海外网络加速场景提供多档订阅方案，覆盖基础版、旗舰版与团队版。基础版每月100GB流量，适合3台设备同时在线；旗舰版每月300GB流量，支持5台设备，并针对IPLC专线游戏场景优化；团队版每月1000GB流量，可容纳20台设备并支持企业定制路由。D2加速在Clash客户端中导入订阅后即可按需切换节点，订阅周期可按月或按年选择。",
+          "AI_HERO_SUBTITLE": "D2加速多设备订阅方案",
+          "AI_HERO_INTRO": "D2加速面向有海外网络访问需求的用户，提供基础版、旗舰版与团队版三档订阅。套餐按流量、设备数量和线路类型区分，用户可根据自己的设备规模和使用强度选择，并在Clash等客户端中导入订阅使用。",
+          "AI_VISUAL_TITLE": "D2加速订阅选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏优化",
+          "AI_HIGHLIGHT_3": "订阅可导入Clash客户端使用",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量规模、设备数量和订阅周期三个角度了解D2加速的套餐差异。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、旗舰版300GB、团队版1000GB，按日常用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，多人共享可选团队版。",
+          "AI_FEATURE_TITLE_3": "按月或按年订阅",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150，旗舰版年付¥350，团队版年付¥850，长期使用可年付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应的客户端，再导入D2加速订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，可按流量和设备数对比后选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与Clash客户端的适配情况，准备导入订阅。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档的说明，将D2加速订阅链接配置到客户端中。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选择D2加速套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求，挑选合适的D2加速订阅方案。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "D2加速三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，主打基础流媒体解锁；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，提供VIP专属高带宽节点和企业定制路由。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "各档套餐分别限制3台、5台或20台设备同时在线，指同一时间发起的连接数量，超出后需断开其他设备再连接。",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付价格分别为15元、35元、85元；年付分别为150元、350元、850元。年付折算每月费用低于月付，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何为设备导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在对应客户端中找到订阅或配置导入入口，按客户端文档提供的步骤填入订阅信息并保存，之后刷新节点列表即可选择线路使用。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量额度用尽后连接会停止，可在下个计费周期恢复，也可以升级到更高流量档位继续使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes55iczl7n1bybn.com",
+    "host": "xn--mes55iczl7n1bybn.com"
+  },
+  "file_hashes": {
+    "index.html": "5cb0346d6b12a840962bd501e32923b7663d37d3c928218896b5df63102b4cdb",
+    "sitemap.xml": "3e297786d3c44e019cb5779787a9fc8112e77acf83162360c969986b10df27b7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c0fb9b6d64027b7b0c37a7ea5915861fb8110a9ffa5bbc57db6cfe48ccf8303b",
+    "robots.txt": "c0af171f24b94557b8ee23415d5c189821e7394f33c19c942e40ba952c2a9727",
+    "ef92779d8926a508c1145dc8417a4705.txt": "9fdac90fdcf011910bc1358fd9eac26ec52a537ec792e0b211c25e0c46f0862c"
+  },
+  "revision": "23dd8a6f63be6501d0c1013d62e892391be938de230e607fdbf2cebb7a0db1a5"
+}

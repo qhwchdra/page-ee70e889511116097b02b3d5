@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--mes55iczl7n1bybn.com/sitemap.xml
